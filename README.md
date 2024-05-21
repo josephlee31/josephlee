@@ -1,6 +1,6 @@
 ### Nice to meet you! I'm Joseph. 👋
 
-#### [Website](josephlee31.github.io) / [Email](mailto:josephslee31@gmail.com) / [LinkedIn](https://www.linkedin.com/in/leejjoseph/)
+#### [Website](https://josephlee31.github.io/) / [Email](mailto:josephslee31@gmail.com) / [LinkedIn](https://www.linkedin.com/in/leejjoseph/)
 
 ---
 
