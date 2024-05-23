@@ -10,4 +10,4 @@ I'm an engineer and developer based in Toronto, ON 🍁
 - ⚒️ Languages I'm familiar with: `Python`, `SQL`, `C/C++`, `JavaScript`, `CSS`, `HTML`, and `MATLAB.`
 - 📫 Tools I'm familiar with: `GCP`, `OpenCV`, `Pandas`, `Scikit-learn`, `Flask`, `Docker`
 - ✏️ Currently learning: `Machine Learning/Image Classification`, `Web Development`, `Amazon Web Services (AWS)`
-- 😊 Professional Interests: R&D/Quality Engineering ⚙️, Software Development/QA 💻, & Data Analysis 📈
+- 😊 Professional Interests: R&D/Quality Engineering ⚙️, Software Development/QA 💻, and Data Analysis 📈
